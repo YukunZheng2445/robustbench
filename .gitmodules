@@ -1,0 +1,3 @@
+[submodule "WeightWatcher"]
+	path = WeightWatcher
+	url = https://github.com/CalculatedContent/WeightWatcher.git
